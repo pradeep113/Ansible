@@ -1,9 +1,9 @@
 [load_balancers]
-frontend1
+frontend1.d9d4.internal
 
 [app_servers]
-app1
-app2
+app1.d9d4.internal
+app2.d9d4.internal
 
 [database_servers]
-appdb1
+appdb1.d9d4.internal
