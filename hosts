@@ -1,0 +1,10 @@
+[load_balancers]
+frontend1
+
+[app_servers]
+app1
+app2
+
+[database_servers]
+appdb1
+EOF
